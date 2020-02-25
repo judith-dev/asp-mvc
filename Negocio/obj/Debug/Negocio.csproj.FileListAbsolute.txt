@@ -1,0 +1,13 @@
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\AutoMapper.Net4.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\Negocio.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\Negocio.pdb
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\AutoMapper.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\Data.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\Entidades.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\Data.pdb
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\Entidades.pdb
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\bin\Debug\AutoMapper.xml
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\obj\Debug\Negocio.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,5 @@
+C:\Users\JUDITH\source\repos\CrudMvc\Entidades\bin\Debug\Entidades.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JUDITH\source\repos\CrudMvc\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\JUDITH\source\repos\CrudMvc\Entidades\obj\Debug\Entidades.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Entidades\obj\Debug\Entidades.pdb

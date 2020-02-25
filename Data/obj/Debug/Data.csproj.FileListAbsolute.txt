@@ -1,0 +1,5 @@
+C:\Users\JUDITH\source\repos\CrudMvc\Data\bin\Debug\Data.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Data\bin\Debug\Data.pdb
+C:\Users\JUDITH\source\repos\CrudMvc\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\JUDITH\source\repos\CrudMvc\Data\obj\Debug\Data.dll
+C:\Users\JUDITH\source\repos\CrudMvc\Data\obj\Debug\Data.pdb
